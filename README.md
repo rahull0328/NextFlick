@@ -1,7 +1,7 @@
 # 🎬 Smart Movie Recommendation System
 
 A content-based **movie recommendation system** that suggests movies similar to the one selected by the user.  
-Built using a trained model on the [:contentReference[oaicite:1]{index=1}](https://www.themoviedb.org/) dataset 🎥📊
+Built using a trained model on the [TMDB](https://www.themoviedb.org/) dataset 🎥📊
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ Built using a trained model on the [:contentReference[oaicite:1]{index=1}](https
 
 ## 📁 Dataset
 
-- Source: [:contentReference[oaicite:2]{index=2}](https://www.themoviedb.org/)
+- Source: [KAGGLE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - The dataset includes information like:
   - Movie title
   - Overview/description
@@ -26,7 +26,7 @@ Built using a trained model on the [:contentReference[oaicite:1]{index=1}](https
 - 🐍 Python
 - 📊 Pandas, NumPy
 - 📈 Scikit-learn (for model training)
-- 💻 Streamlit / Flask (for UI) _(if applicable)_
+- 💻 Streamlit
 
 ## 🚀 How It Works
 
@@ -67,6 +67,6 @@ Built using a trained model on the [:contentReference[oaicite:1]{index=1}](https
 
 ## 💖 Acknowledgements
 
-- Dataset from The Movie Database (TMDb)
+- Dataset from The Movie Database [TMDB](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 - Inspired by the concept of content-based recommendation systems
