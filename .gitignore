@@ -1,2 +1,2 @@
-movie_list.pkl
-similarity.pkl
+*.pkl
+Similarity.pkl
